@@ -20,7 +20,7 @@ export default defineConfig({
       noExternal: ['swiper', 'leaflet'],
     },
   },
-  site: 'https://hellotham.github.io',
+  site: 'https://grlscn.github.io',
   base: '/hello-astro',
   integrations: [tailwind(), sitemap(), image(), mdx(), alpinejs(), robotsTxt()],
   experimental: {
