@@ -21,7 +21,7 @@ export default defineConfig({
     },
   },
   site: 'https://grlscn.github.io',
-  base: '/hello-astro',
+  base: '/testlab',
   integrations: [tailwind(), sitemap(), image(), mdx(), alpinejs(), robotsTxt()],
   experimental: {
     integrations: true,
